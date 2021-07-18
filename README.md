@@ -1,2 +1,5 @@
-# Javascript-chatbot
-This is a basic Javascript medical chatbot. It was built with Jquery library and its currently being modified with React. It works with Javascript AI to ask the user some questions and prescribe possible solutions for which it has already been trained on.
+ Hi, I’m @samuelAttah
+- 👀 I’m interested in Full stack development, data science and Artificial Intelligence.
+- 🌱 I’m currently learning Modern coding with React
+- 💞️ I’m looking to collaborate on Reactjs,ReactNative, django, pandas, numpy etc
+- 📫 reach me @sammy.attah16@gmail.com or @sammygeneris@gmail.com
